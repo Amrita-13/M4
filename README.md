@@ -68,6 +68,7 @@ int main() {
 
 ## OUTPUT
  <img width="389" height="262" alt="image" src="https://github.com/user-attachments/assets/144cfd06-5e83-4ba2-bfb7-a55d8df3be4b" />
+ 
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
